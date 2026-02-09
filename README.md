@@ -74,7 +74,7 @@ See instructions. Delete this line and place a list of your User Stories here.
 ## Activity Diagrams
 
 !["User Story: As a user, I want to see a counter showing the number of consecutive days of habit completion, so I feel sense
-   of accomplishment."](image.png)
+   of accomplishment."](diagrams/image.png)
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
 
