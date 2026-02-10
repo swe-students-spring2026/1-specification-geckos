@@ -63,7 +63,7 @@ A little exercise to get started with the specification phase of the software de
 
 ## Product Vision Statement
 
-> Our mobile habit-tracking mobile application helps people build consistent healthy routines through social verification, progress tracking, and rewards, while enabling supervisors to review activity, provide feedback, and support accountability through a transparent, structured workflow.
+> **Our mobile habit-tracking mobile application helps people build consistent healthy routines through social verification, progress tracking, and rewards, while enabling supervisors to review activity, provide feedback, and support accountability through a transparent, structured workflow.**
 
 ## User Requirements
 
