@@ -4,8 +4,6 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile. **(We will delete this line after all team members add their names and github links.)**
-
 [Simon Ni](https://github.com/NarezIn)
 
 [Tsengelmurun EnkhOnon](https://github.com/murnbn)
@@ -14,11 +12,9 @@ See instructions. Delete this line and replace with a list of the names of your 
 
 [Alejandro Fiestas](https://github.com/avf8449)
 
-[Example Name](https://github.com/example-username)
+[Sarya Sadi](https://github.com/saryassadi)
 
 ## Stakeholders
-
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
 
 #### Stakeholder 1 (User Type 1):
 > Sandy Liu, a 21-year-old college student who always forgot to drink water but values hydration.
@@ -123,7 +119,7 @@ See instructions. Delete this line and place your Product Vision Statement here.
 !["(Type 1) User Story 2: "As a user, I want the app to only notify me to drink water instead of forcing me to drink water, because I'm the type of person who would only forget to drink water and I do not want to be pushed.""](diagrams/diagram2.png)
 
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+See instructions. Delete this line and place images of your UML Activity diagrams here. (We still have some in figma, they will be added.)
 
 ## Clickable Prototype
 
