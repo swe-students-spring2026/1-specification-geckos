@@ -73,8 +73,11 @@ See instructions. Delete this line and place a list of your User Stories here.
 
 ## Activity Diagrams
 
-!["User Story: As a user, I want to see a counter showing the number of consecutive days of habit completion, so I feel sense
-   of accomplishment."](diagrams/image.png)
+!["User Story: As a user, I want to see a counter showing the number of consecutive days of habit completion, so I feel sense of accomplishment."](diagrams/diagram1.png)
+
+
+!["(Type 1) User Story 2: "As a user, I want the app to only notify me to drink water instead of forcing me to drink water, because I'm the type of person who would only forget to drink water and I do not want to be pushed.""](diagrams/diagram2.png)
+
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
 
