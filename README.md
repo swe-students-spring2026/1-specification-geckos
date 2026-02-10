@@ -118,7 +118,7 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 !["(Type 1) User Story 2: "As a user, I want the app to only notify me to drink water instead of forcing me to drink water, because I'm the type of person who would only forget to drink water and I do not want to be pushed.""](diagrams/diagram2.png)
 
-!["(Type 2/Supervisor) User Story 3: "As a supervisor, I want to open my supervisor dashboard, review my supervisee’s submitted habit logs (with proof like NFC taps), and verify or reject them while leaving supportive comments, so that we avoid arguments, keep things objective, and help my supervisee stay motivated. I also want to quickly see how long they’ve been inactive without forcing or pressuring them.""](image.png)
+!["(Type 2/Supervisor) User Story 3: "As a supervisor, I want to open my supervisor dashboard, review my supervisee’s submitted habit logs (with proof like NFC taps), and verify or reject them while leaving supportive comments, so that we avoid arguments, keep things objective, and help my supervisee stay motivated. I also want to quickly see how long they’ve been inactive without forcing or pressuring them.""](diagrams/diagram3.png)
 
 
 See instructions. Delete this line and place images of your UML Activity diagrams here. (We still have some in figma, they will be added.)
