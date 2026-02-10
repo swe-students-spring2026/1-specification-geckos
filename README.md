@@ -117,4 +117,4 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[Try Our Prototype here!](https://www.figma.com/proto/KRwNA0Iqkzp2W7oTEL9o3E/Geckos?node-id=2-2&t=NkjKaR9Wtc9tBUjP-1)
