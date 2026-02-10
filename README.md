@@ -12,6 +12,8 @@ See instructions. Delete this line and replace with a list of the names of your 
 
 [James Zheng](https://github.com/hyperjasm)
 
+[Alejandro Fiestas](https://github.com/avf8449)
+
 [Example Name](https://github.com/example-username)
 
 ## Stakeholders
@@ -69,7 +71,49 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+**Habit Builder User:**
+- **Initial App Setup**
+
+   - As a User, I want to create an account with my email, so that I can save my data across devices and protect it with my password.
+   - As a User, I want to set up my profile, including name and profile picture, so that my friends and supervisor can recognize me.
+   - As a User, I want to choose from a list of default habits, so that I can get started quickly.
+   - As a User, I want to be able to create custom habits, so that I can track the ones that matter specifically to me.
+   - As a User, I want to generate an invite link to send to a friend, so that they can become my Supervisor.
+   - As a User, I want to set daily or weekly goals for my habits, so I can control the difficulty level.
+
+- **Habit Tracking and Verification of Completion**
+   - As a User, I want to receive a notification to do my habit, so I don't forget during a busy day and lose my streak.
+   - As a User, I want to be able to customize the time of my reminders, so they fit my schedule and are delivered at an appropriate time.
+   - As a User, I want to be able to actually validate my habit completion by tapping an NFC tag, so that I cannot get away with not doing it.
+   - As a User, I want to be able to upload a photo as proof, so my supervisor knows I actually did the task.
+   - As a User, I want to mark some simple habits as completed manually without verification, so that I can track simple habits that don't require proof.
+
+- **Habit Progress, Motivation and Social**
+   - As a User, I want to see a counter of my consecutive days, so I feel a sense of accomplishment.
+   - As a User, I want to easily see a percentage bar of my daily goal, so I know exactly how much I have left to do.
+   - As a User, I want to receive a digital medal or badge when I hit the milestone, so I can be motivated to maintain my habits.
+   - As a User, I want to be notified on how a habit is benefiting me, so I remember why I am doing it and keep motivated.
+   - As a User, I want to challenge friends to a streak competition, so tracking feels fun.
+   - As a User, I want to see if my friends are keeping their habits today, so I have extra motivation to keep up with them.
+
+**The Supervisor User:**
+- **Monitoring**
+   - As a Supervisor, I want to accept an invite from a Habit Builder User, so that I can start tracking their progress.
+   - As a Supervisor, I want to be able to toggle between my personal habits and my supervisor dashboard, so I don't have to log out or use another app.
+   - As a Supervisor, I want to see a list of all the users I am supervising, so I can check everyone's progress quickly.
+   - As a Supervisor, I want to see a "Last Active" indicator for my supervisee, so I know if they have stopped using the app.
+   - As a Supervisor, I want to receive weekly reports, so I can track their long-term improvement rapidly.
+   - As a Supervisor, I want to be notified when a user misses a habit streak, so I can encourage them to get back on track.
+
+- **Verification and Action**
+   - As a Supervisor, I want to view the photo or NFC proof provided by the user, so I can verify they aren't cheating.
+   - As a Supervisor, I want to approve or reject a habit log, so the user stays honest.
+   - As a Supervisor, I want to leave positive comments or encouragement, so I can provide emotional support to the user.
+   - As a Supervisor, I want to be able to remove a supervisee from my list, so I can stop tracking them if we stop working together.
+   - As a Supervisor, I want a screen where I can quickly verify the habits of all my supervisees at once, so that I don't have to enter each of their profiles individually.
+
+
+
 
 ## Activity Diagrams
 
