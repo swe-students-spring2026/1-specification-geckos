@@ -113,16 +113,7 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 ## Activity Diagrams
 
-!["User Story: As a user, I want to see a counter showing the number of consecutive days of habit completion, so I feel sense of accomplishment."](diagrams/diagram1.png)
-
-
-!["(Type 1) User Story 2: "As a user, I want the app to only notify me to drink water instead of forcing me to drink water, because I'm the type of person who would only forget to drink water and I do not want to be pushed.""](diagrams/diagram2.png)
-
-!["(Type 2/Supervisor) User Story 3: "As a supervisor, I want to open my supervisor dashboard, review my supervisee’s submitted habit logs (with proof like NFC taps), and verify or reject them while leaving supportive comments, so that we avoid arguments, keep things objective, and help my supervisee stay motivated. I also want to quickly see how long they’ve been inactive without forcing or pressuring them.""](diagrams/diagram3.png)
-
-!["(Type 2/Supervisor) User Story 4: "As a supervisor, I want to quickly check how long my supervisee has been inactive and view their recent habit history, so that I can understand what’s going on without pressuring them. If they’ve been inactive for a while, I want to send a supportive message (or a reminder request) and optionally adjust supervision settings (pause supervision, change verification requirements), so the experience stays clear and respectful.""](diagrams/diagram4.png)
-
-See instructions. Delete this line and place images of your UML Activity diagrams here. (We still have some in figma, they will be added.)
+!["Geckos Diagrams. We got 6 here."](diagrams/geckos_diagrams.png)
 
 ## Clickable Prototype
 
