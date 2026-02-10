@@ -63,11 +63,11 @@ A little exercise to get started with the specification phase of the software de
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+> Our mobile habit-tracking mobile application helps people build consistent healthy routines through social verification, progress tracking, and rewards, while enabling supervisors to review activity, provide feedback, and support accountability through a transparent, structured workflow.
 
 ## User Requirements
 
-**Habit Builder User:**
+**Habit Builder User (Type 1):**
 - **Initial App Setup**
 
    - As a User, I want to create an account with my email, so that I can save my data across devices and protect it with my password.
@@ -92,7 +92,7 @@ See instructions. Delete this line and place your Product Vision Statement here.
    - As a User, I want to challenge friends to a streak competition, so tracking feels fun.
    - As a User, I want to see if my friends are keeping their habits today, so I have extra motivation to keep up with them.
 
-**The Supervisor User:**
+**The Supervisor User (Type 2):**
 - **Monitoring**
    - As a Supervisor, I want to accept an invite from a Habit Builder User, so that I can start tracking their progress.
    - As a Supervisor, I want to be able to toggle between my personal habits and my supervisor dashboard, so I don't have to log out or use another app.
@@ -113,6 +113,7 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 ## Activity Diagrams
 
+_This image has a very high resolution. Zoom in however your want!_
 !["Geckos Diagrams. We got 6 here."](diagrams/geckos_diagrams.png)
 
 ## Clickable Prototype
